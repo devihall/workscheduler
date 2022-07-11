@@ -28,46 +28,38 @@ var timeArr = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24]
 console.log (timeArr)
 
 timeArr.forEach(function(hour){
-  var timeBlockEl = $("block-" + hour)
+  var timeBlockEl = $("#block-" + hour)
 
 
   //time tracker function for comparing
   var timeNow = moment().hour();
-  
-  var colorClassP = 'past';
-  var colorClassPr = 'present';
-  var colorClassF = 'future';
+
+//   var colorClass = 'past';
+//   var colorClass = 'present';
+//   var colorClass = 'future';
 
   if (hour < timeNow){
-    colorClassP = 'past'
+    // colorClass = 'past'
+    timeBlockEl.addClass("past");
   } else if (hour === timeNow){
-    colorClassPr = 'present'
+    // colorClass = 'present'
+    timeBlockEl.addClass("present");
   } else {
-    colorClassF = 'future'
+    // colorClass = 'future'
+    timeBlockEl.addClass("future");
   }
-  timeBlockEl.addClass(ColorClass)
+//   timeBlockEl.addClass(colorClass)
 })
 
 
 
 
 
-    
+  //////////////////////////Scratch  Pad/////////////////////  
     // console.log(timeNow);
-
-
-
-
-
 
 // var timeBlock = $("data-time")
 // console.log (timeBlock)
-
-
-
-
-
-
 
 // //parse hours into time
 // $(".time-block")
