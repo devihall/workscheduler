@@ -1,5 +1,4 @@
-# Work Day Scheduler Starter Code
-
+# Work Day Scheduler 
 A daily planner to create a schedule.
 Open the planner to see current day is displayed at the top of the calendar
 Scroll down to see time blocks for hours of the day.
