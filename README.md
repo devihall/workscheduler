@@ -1,9 +1,8 @@
 ## Work Day Scheduler 
 
-This site was built using [Deployed App](https://devihall.github.io/workscheduler/).
+# Link to [Deployed App](https://devihall.github.io/workscheduler/).
 
-
-
+# Description
 A daily planner to create a schedule.
 Open the planner to see current day is displayed at the top of the calendar
 Scroll down to see time blocks for hours of the day.
