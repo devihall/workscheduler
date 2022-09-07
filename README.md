@@ -13,7 +13,10 @@ That event can be saved in local storage.
 When the page is refreshed the saved events persist in local storage.
 
 ## Screenshots
+
+![Screenshot 2](https://github.com/devihall/workscheduler/blob/main/Screen%20Shot%202022-07-12%20at%2012.38.48%20PM.png)
+
+
 ![Screenshot 1](https://github.com/devihall/workscheduler/blob/main/Screen%20Shot%202022-07-12%20at%2012.38.34%20PM.png)
 
 
-![Screenshot 2](https://github.com/devihall/workscheduler/blob/main/Screen%20Shot%202022-07-12%20at%2012.38.48%20PM.png)
