@@ -1,6 +1,6 @@
 ## Work Day Scheduler 
 
-![Screenshot 1](https://github.com/devihall/workscheduler/blob/main/Screen%20Shot%202022-07-12%20at%2012.38.34%20PM.png)
+![deployed app](https://devihall.github.io/workscheduler/)
 
 A daily planner to create a schedule.
 Open the planner to see current day is displayed at the top of the calendar
