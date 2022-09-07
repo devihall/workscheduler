@@ -17,6 +17,5 @@ When the page is refreshed the saved events persist in local storage.
 ![Screenshot 2](https://github.com/devihall/workscheduler/blob/main/Screen%20Shot%202022-07-12%20at%2012.38.48%20PM.png)
 
 
-![Screenshot 1](https://github.com/devihall/workscheduler/blob/main/Screen%20Shot%202022-07-12%20at%2012.38.34%20PM.png)
-
+<img width="872" alt="Screen Shot 2022-09-07 at 12 01 18 PM" src="https://user-images.githubusercontent.com/107077794/188925526-3baafeb6-a56f-419e-bf48-5208cf72bddb.png">
 
