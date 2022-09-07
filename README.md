@@ -1,6 +1,6 @@
 ## Work Day Scheduler 
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using [Deployed App](https://devihall.github.io/workscheduler/).
 
 
 
